@@ -1,0 +1,16 @@
+@import @import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+body {font-family: 'Mynerve', cursive;}
+header {text-align: center;}
+#head {padding: 10px; background-color: bisque; border-top: 1px solid rgb(219, 223, 18); color: rgb(21, 67, 219); margin-bottom: 20px;}
+main {display: flex; flex-direction: column;align-items: center; font-size: small;}
+#titolo {width: 720px; }
+#focaccia {border-radius: 10px;}
+h1 {text-align: center; margin-bottom: 40px;}
+figcaption {color: darkgray;}
+#featured {text-align: left; width: 720px;border-left: 1px solid orange; padding-left: 10px; color: orange; margin-top: 50px; margin-bottom: 70px;}
+#featured1 { margin-top: 0; margin-bottom: 0;}
+article {width:720px; }
+h2 {padding-bottom: 20px; border-bottom: 1px solid rgb(39, 155, 155);}
+.lista {margin-bottom: 5px;}
+#lastparag {margin-left: 40px;}
+a {color: darkgreen;}
